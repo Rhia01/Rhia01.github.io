@@ -5,8 +5,13 @@ categories: Travel
 tag: [TopRestaurants, Food, Travel, NYEats]
 toc: false
 author_profile: false
+Typora-root-url: ../
 ---
 **Summary:** Are you planning a trip to New York? Then you must check out these top 10 restaurants that offer delicious food and an unforgettable dining experience. From classic Italian restaurants to modern fusion cuisine, this list has something for everyone. We've included the address, menu recommendations and other helpful information like opening and closing hours. So, let's get started!
+
+![Sequence 01.00_21_25_04.Still001](/Images/2023-02-26-top-10-restaurants-you-must-visit-when-traveling-to-new-york/Sequence 01.00_21_25_04.Still001.jpg)
+
+
 
 ##1. Del Posto
 **Address:** 85 10th Ave, New York, NY 10011

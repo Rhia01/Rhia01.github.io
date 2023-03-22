@@ -6,23 +6,14 @@ tag: [TopRestaurants, Food, Travel, NYEats]
 toc: true
 author_profile: false
 Typora-root-url: ../
+sidebar:
+    nav: "docs"
+    
 ---
 **Summary:** Are you planning a trip to New York? Then you must check out these top 10 restaurants that offer delicious food and an unforgettable dining experience. From classic Italian restaurants to modern fusion cuisine, this list has something for everyone. We've included the address, menu recommendations and other helpful information like opening and closing hours. So, let's get started!
 
-
-
-## 헤딩
-
-### 세컨드 헤딩
-
 실시간으로 반영이 되나요?
 다시 한번 시도
-
-
-
-## 헤딩22
-
-### 세컨드 헤딩 222
 
 또 시도
 

@@ -8,8 +8,8 @@ main:
     url: /search/
 
 docs:
-  - titles: "Heading"
-  children:
+  - title: "Let's go..."
+    children:
     - title: "Category"
       url: /categories/
     - title: "Tag"

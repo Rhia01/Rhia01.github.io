@@ -3,7 +3,7 @@ layout: single
 title:  "Top 10 Restaurants you must visit when traveling to New York"
 categories: Travel
 tag: [TopRestaurants, Food, Travel, NYEats]
-toc: false
+toc: true
 author_profile: false
 Typora-root-url: ../
 ---
